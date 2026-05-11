@@ -28,5 +28,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tahasaifi447&show_icons=true&theme=tokyonight" alt="TS's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tahasaifi447&theme=tokyonight&hide_border=true" alt="TS GitHub Streak" />
 </p>
+
