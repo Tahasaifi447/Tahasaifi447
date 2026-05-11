@@ -9,10 +9,12 @@
 
 ### 👨‍💻 About Me
 
+* 🤖 I'm an **AI-Assisted Developer**, leveraging advanced AI tools to build powerful Apps and Websites.
 * 🔭 I’m currently building **V01D-CRYPT** (Advanced File Encryption Tool).
-* 💻 I build mobile & web applications, and experiment with local AI models.
-* 🛠️ I love tweaking mobile hardware and playing with Android root tools.
+* 🕵️‍♂️ I am expanding my arsenal by diving deep into **Ethical Hacking, OSINT, and CyberSecurity**.
+* 🛠️ I love tweaking mobile hardware, rooting Androids, and executing scripts via Termux.
 * ⚡ Fun fact: I prefer the terminal over a GUI any day.
+
 
 ### ⚙️ Tech Stack & Arsenal
 
